@@ -1,0 +1,60 @@
+.Big_main{
+    font-family: Arial;
+    background-image: linear-gradient(to bottom, #444242, #444242, #444242,  #444242,  #a625b6, #7d34ba);
+    margin: 0;
+    padding: 0;
+    color: white    ;
+    margin: 0;
+}
+
+
+
+.Container{
+    position: relative;
+    color: white;
+}
+
+.banner{
+ width: 100%;
+ height: 300px;
+ display: block;
+ border-radius: 20px;
+}
+
+.Main{
+    position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 130%;
+}
+.left{
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    font-size: 110%;
+}
+
+.right{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    font-size: 110%;
+}
+
+.list{
+    font-size: 120%;
+}
+
+.Foot{
+   font-family: Verdana;
+   font-size: 80%;
+   text-align: center;
+}
+
+.imgs1{
+    position: absolute;
+    padding-bottom: 40%;
+    padding-left: 50%;
+}
